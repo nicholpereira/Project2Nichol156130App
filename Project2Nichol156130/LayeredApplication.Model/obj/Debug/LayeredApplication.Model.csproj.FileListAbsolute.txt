@@ -1,0 +1,10 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\App\LayeredApplication.Model\bin\Debug\LayeredApplication.Model.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\App\LayeredApplication.Model\bin\Debug\LayeredApplication.Model.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\App\LayeredApplication.Model\obj\Debug\LayeredApplication.Model.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\App\LayeredApplication.Model\obj\Debug\LayeredApplication.Model.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\App\LayeredApplication.Model\obj\Debug\LayeredApplication.Model.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Project2Nichol56130\LayeredApplication.Model\bin\Debug\LayeredApplication.Model.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\Project2Nichol56130\LayeredApplication.Model\bin\Debug\LayeredApplication.Model.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Project2Nichol56130\LayeredApplication.Model\obj\Debug\LayeredApplication.Model.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\Project2Nichol56130\LayeredApplication.Model\obj\Debug\LayeredApplication.Model.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\Project2Nichol56130\LayeredApplication.Model\obj\Debug\LayeredApplication.Model.pdb

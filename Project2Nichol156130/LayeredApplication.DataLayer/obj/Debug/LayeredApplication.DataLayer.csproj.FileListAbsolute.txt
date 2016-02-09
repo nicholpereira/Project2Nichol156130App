@@ -1,0 +1,14 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\App\LayeredApplication.DataLayer\bin\Debug\LayeredApplication.DataLayer.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\App\LayeredApplication.DataLayer\bin\Debug\LayeredApplication.DataLayer.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\App\LayeredApplication.DataLayer\bin\Debug\LayeredApplication.Model.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\App\LayeredApplication.DataLayer\bin\Debug\LayeredApplication.Model.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\App\LayeredApplication.DataLayer\obj\Debug\LayeredApplication.DataLayer.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\App\LayeredApplication.DataLayer\obj\Debug\LayeredApplication.DataLayer.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\App\LayeredApplication.DataLayer\obj\Debug\LayeredApplication.DataLayer.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Project2Nichol56130\LayeredApplication.DataLayer\bin\Debug\LayeredApplication.DataLayer.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\Project2Nichol56130\LayeredApplication.DataLayer\bin\Debug\LayeredApplication.DataLayer.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Project2Nichol56130\LayeredApplication.DataLayer\bin\Debug\LayeredApplication.Model.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\Project2Nichol56130\LayeredApplication.DataLayer\bin\Debug\LayeredApplication.Model.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\Project2Nichol56130\LayeredApplication.DataLayer\obj\Debug\LayeredApplication.DataLayer.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\Project2Nichol56130\LayeredApplication.DataLayer\obj\Debug\LayeredApplication.DataLayer.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\Project2Nichol56130\LayeredApplication.DataLayer\obj\Debug\LayeredApplication.DataLayer.pdb
